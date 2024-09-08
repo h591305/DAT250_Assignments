@@ -5,7 +5,7 @@ plugins {
     id("com.netflix.dgs.codegen") version "6.2.1"
 }
 
-group = "org.example"
+group = "no.hvl.dat250"
 version = "0.0.1-SNAPSHOT"
 
 java {
