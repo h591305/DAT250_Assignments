@@ -1,0 +1,34 @@
+### Oblig_2 report:
+
+
+#### Step 0: HTTP Client
+- I decided to install Bruno.
+
+#### Step 1: Setting up the repo
+- The repository was already set up from the previous assignment.
+
+#### Step 2: Domain Model
+- I created the following classes based upon the domain model
+`Poll.java`, `PollController.java`, `PollManager.java`, `User.java`, `Vote.java`, `VoteOption.java` and `UserController.java`.
+- I have also segregated the java-files into three different directiories: components, controllers and domain.
+
+#### Step 3: Implement test scenarios
+- I skipped this step.
+
+#### Step 4: Implement controller(s)
+- I implented so that one could add a User, delete a User, get a specific user or get all users. The same applies for polls.
+- I did not get to the voting controller.
+
+#### Step 5: Automate testing
+
+- For this step I used Bruno to perform the operations which I explained in step 4. 
+- To do this I performed GET, POST and DELETE requests.
+- Inside of Bruno I have a collection of POST, GET, and DELETE requests. 
+- In Bruno, the user will be notified if the operation would be successfull or not. If a user was created, the JSON-object for that user would be displayed after creation.
+
+#### Step 6: API Documentation (optional)
+- I decided to skip this step.
+
+
+#### Step 7: Build automation (optional)
+- I decided to skip this step.
