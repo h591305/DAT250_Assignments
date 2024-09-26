@@ -1,6 +1,9 @@
-## Oblig 5
+# Oblig 5 - MongoDB
 
-## Validation Of Mongodb-Installation
+## Introduction
+
+
+## Validation Of MongoDB-Installation
 ![screenshot](https://github.com/user-attachments/assets/879fd22e-7e60-4c1a-af41-97ec01b9a132)
 
 ## Screenshots From CRUD Operations
@@ -17,7 +20,7 @@
 ### Delete:
 ![screenshot](https://github.com/user-attachments/assets/6ef8b56f-7230-40a0-be6b-5ec2c5c8c16a)
 
-
+## Techincal Issues
 
 
 
