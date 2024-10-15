@@ -21,7 +21,7 @@ function postUser(){
 
                 if(response.status == 201){
 
-                    
+                    console.log("User creation success!")
                 }
 
             }).catch(error =>  {
